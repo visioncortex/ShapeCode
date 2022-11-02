@@ -12,4 +12,6 @@ The algorithm is particularly effective in searching for a symbol (query) from a
 
 The idea of the algorithm is simple - it falls under the statistical shape analysis family, basically denoting the mass of the shape as fraction of the occupancy of space, and shuffling the bits by their contribution to entropy - more significant bits come first.
 
+In some sense, SymCode is a heavily simplified version of ShapeCode.
+
 TODO
