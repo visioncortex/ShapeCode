@@ -14,6 +14,6 @@ The idea of the algorithm is simple - it falls under the statistical shape analy
 
 SymCode is a heavily simplified version of ShapeCode, retaining the essence of its philosophy and architecture. Since the scholarly reception of SymCode is pretty bad, so - 
 
-The limitation of the algorithm is that it is not invariant to non-affine transform. In my opinion handling degeneration is out of the scope of this algorithm.
+The limitation of the algorithm is that it is not invariant under non-affine transform. In my opinion handling degeneration is out of the scope of this algorithm.
 
 TODO
