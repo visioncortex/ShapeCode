@@ -8,4 +8,4 @@ Basically we developed and experimented with a shape encoding algorithm that has
 + rotational invariant under a normalization scheme
 + *the similarity of two symbols is a linear function of the weighted Hamming distance between the two encoded bitstrings*
 
-The algorithm is particular effective in searching a symbol from a database of symbols, and the experimental results on Chinese / Korean OCR shown great results. It can definitely be generalized to more complex graphics, i.e. colored signage
+The algorithm is particularly effective in searching for a symbol (query) from a database of symbols, and the experimental results on Chinese / Korean OCR shown great results. It can definitely be generalized to more complex graphics, i.e. colored signages.
