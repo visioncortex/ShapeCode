@@ -12,7 +12,7 @@ The algorithm is particularly effective in searching for a symbol (query) from a
 
 The idea of the algorithm is simple - it falls under the statistical shape analysis family, basically denoting the mass of the shape as fraction of the occupancy of space, and shuffling the bits by their contribution to entropy - more significant bits come first.
 
-Another interesting property is that you can basically truncate the bit string arbitrarily (okay there are dedicated slice points) and still retain some resemblance to the original shape. In other words, fidelity is directly proportional to the length of the bit string. In another words, you can roughly control how much entropy a given symbol occupy.
+Another interesting property is that you can basically truncate the bit string arbitrarily (okay there are dedicated splice points) and still retain some resemblance to the original shape. In other words, fidelity is directly proportional to the length of the bit string. In another words, you can roughly control how much entropy a given symbol occupy.
 
 SymCode is a heavily simplified version of ShapeCode, retaining the essence of its philosophy and architecture. Since the scholarly reception of SymCode is pretty bad, so - 
 
