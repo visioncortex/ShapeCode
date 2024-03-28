@@ -2,7 +2,7 @@
 
 > This is unpublished research, I have been procrastinating for several years. It will probably never be published, but at least can serve as a memoir
 
-Basically we developed and experimented with a shape encoding algorithm that has very interesting property:
+Basically we developed and experimented with a shape encoding algorithm that has very interesting properties:
 
 + lossless encode-decode roundtrip
 + translation / scale invariant
