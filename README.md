@@ -4,6 +4,7 @@
 
 Basically we developed and experimented with a shape encoding algorithm that has very interesting property:
 
++ lossless encode-decode roundtrip
 + translation / scale invariant
 + rotational invariant under a normalization scheme
 + *the similarity of two symbols is a linear function of the weighted Hamming distance between the two encoded bitstrings*
