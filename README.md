@@ -19,6 +19,7 @@ SymCode is a heavily simplified version of ShapeCode, retaining the essence of i
 
 The limitation of the algorithm is that it is not invariant under non-affine transform. In my opinion handling degeneration is out of the scope of this algorithm.
 
+![diagram](https://github.com/visioncortex/ShapeCode/assets/1782664/ae6640b5-4031-45e5-83fd-698c170dbfb5)
 ![](character_query.png)
 ![](glyph_query.png)
 ![](character-images-01.png)
