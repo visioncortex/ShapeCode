@@ -21,5 +21,6 @@ The limitation of the algorithm is that it is not invariant under non-affine tra
 
 ![](character_query.png)
 ![](glyph_query.png)
+![](character-images-01.png)
 
 TODO
