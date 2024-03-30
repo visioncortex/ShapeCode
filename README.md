@@ -16,7 +16,7 @@ The idea of the algorithm is simple - it falls under the statistical shape analy
 
 Another interesting property is that you can basically truncate the bit string arbitrarily (okay there are dedicated splice points) and still retain some resemblance to the original shape. In other words, fidelity is directly proportional to the length of the bit string. In another words, you can roughly control how much entropy a given symbol occupy.
 
-SymCode is a heavily simplified version of ShapeCode, retaining the essence of its philosophy and architecture. Since the reception of SymCode is pretty bad, so - 
+SymCode is a heavily simplified version of ShapeCode, retaining the essence of its philosophy and architecture. Besides symbolic recognition, ShapeCode can be applied to graphics compression. Afterall, compression is all about detecting patterns and encoding things efficiently. But there probably wouldn't be significant value in compressing, say, diagrams and screenshots more efficiently.
 
 The limitation of the algorithm is that it is not invariant under non-affine transform. In my opinion handling degeneration is out of the scope of this algorithm.
 
